@@ -1,3 +1,4 @@
+
 /* Base */
 html {
   overflow-x: hidden; }
@@ -22,6 +23,15 @@ p.temp {
     margin-bottom: 1em;
     margin-left: 1em;
     margin-right: 1em;
+}
+
+p.center {
+    display: block;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 4em;
+    margin-right:4em;
+    
 }
 
 a {
